@@ -8,11 +8,36 @@
   <title>Social Messager</title>
 </head>
 
-<body class="box-border bg-slate-900">
-  <div class="flex flex-col justify-center items-center h-screen text-center">
-    <img src="assets/img/barrier.svg" alt="Barrier icon." class="w-52">
-    <h3 class="font-mono text-xl text-white font-bold mt-6">UNDER CONSTRUCTION</h3>
-  </div>
+<body class="bg-sky-200 px-4">
+  <header>
+    <a href="/">
+      LOGO
+    </a>
+
+    <ul>
+      <li><a href="/">About us</a></li>
+    </ul>
+  </header>
+
+  <main class="">
+    <section class="grid grid-cols-4 gap-2">
+      <div class="bg-white p-4 shadow-lg">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
+      </div>
+      <div class="bg-white p-4 shadow-lg">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
+      </div>
+      <div class="bg-white p-4 shadow-lg">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
+      </div>
+      <div class="bg-white p-4 shadow-lg">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
+      </div>
+      <div class="bg-white p-4 shadow-lg">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
+      </div>
+    </section>
+  </main>
 </body>
 
 </html>
