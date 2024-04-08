@@ -28,18 +28,6 @@ require_once('config/database.php');
       <div class="bg-white p-4 shadow-lg">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
       </div>
-      <div class="bg-white p-4 shadow-lg">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
-      </div>
-      <div class="bg-white p-4 shadow-lg">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
-      </div>
-      <div class="bg-white p-4 shadow-lg">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
-      </div>
-      <div class="bg-white p-4 shadow-lg">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
-      </div>
     </section>
   </main>
 </body>
