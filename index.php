@@ -1,4 +1,4 @@
-<?php
+<?php 
 require_once('config/database.php');
 ?>
 
@@ -44,6 +44,8 @@ require_once('config/database.php');
       <button>Save</button>
     </dialog>
   </main>
+
+  <script src="/assets/js/main.js"></script>
 </body>
 
 </html>
