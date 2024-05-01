@@ -24,6 +24,10 @@ require_once('config/database.php');
   </header>
 
   <main class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <button id="new-msg-btn" type="button" class="bg-white p-3 rounded-lg m-4 shadow-lg">
+      Leave message
+    </button>
+
     <section class="grid grid-cols-1">
       <div class="bg-white p-4 shadow-lg">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
