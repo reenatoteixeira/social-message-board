@@ -29,6 +29,16 @@ require_once('config/database.php');
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex laborum minus rerum laboriosam recusandae repudiandae excepturi quaerat, ducimus eos earum, porro culpa molestiae quae eligendi veniam iste voluptate aliquid eaque!</p>
       </div>
     </section>
+
+    <dialog id="new-msg-modal">
+      <h2>
+        Leave your message
+      </h2>
+      <button id="close-modal-btn">Close modal</button>
+      <p>Messages cannot be edited or deleted.</p>
+      <textarea name="message" id="message" rows="5"></textarea>
+      <button>Save</button>
+    </dialog>
   </main>
 </body>
 
